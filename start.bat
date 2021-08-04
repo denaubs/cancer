@@ -19,5 +19,3 @@ echo Username: administrator
 echo Password: @cancer404
 echo Connect to you RDP now.
 ping -n 10 127.0.0.1 >nul
-an Login Ke RDP Anda Sekarang
-ping -n 10 127.0.0.1 >nul
